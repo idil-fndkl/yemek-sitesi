@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1-g0wT5IWdA0_m_xC8kN6Qwpbm6cAEHSS
 """
 
-!pip install -q isodate streamlit
 import json
 import re
 import isodate
